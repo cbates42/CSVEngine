@@ -1,0 +1,16 @@
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\bin\Debug\net7.0\CSVEngine.exe
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\bin\Debug\net7.0\test.txt
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\bin\Debug\net7.0\CSVEngine.deps.json
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\bin\Debug\net7.0\CSVEngine.runtimeconfig.json
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\bin\Debug\net7.0\CSVEngine.dll
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\bin\Debug\net7.0\CSVEngine.pdb
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\CSVEngine.csproj.AssemblyReference.cache
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\CSVEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\CSVEngine.AssemblyInfoInputs.cache
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\CSVEngine.AssemblyInfo.cs
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\CSVEngine.csproj.CoreCompileInputs.cache
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\CSVEngine.dll
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\refint\CSVEngine.dll
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\CSVEngine.pdb
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\CSVEngine.genruntimeconfig.cache
+C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\ref\CSVEngine.dll
