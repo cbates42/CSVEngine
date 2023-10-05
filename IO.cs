@@ -8,37 +8,49 @@ namespace CSVEngine
 {
     internal class IO
     {//                                             
-      
-        public IO() 
+        public string delimiter = "|";
+        string path = Path.Combine(Directory.GetCurrentDirectory(), "Files");
+        
+        public IO()
         {
-            //                                              v  add whatever the directory is here later
-            var path = Directory.GetCurrentDirectory();
+            //                                             
+          //  var path = Directory.GetCurrentDirectory() + @"\Files\ SamplePipe.txt"; 
+            string[] files = Directory.GetFiles(path);
 
-            using(StreamReader sr = new StreamReader(path))
+            using (StreamReader sr = new StreamReader(path))
             {
-                var line = sr.ReadLine();
-                while(line != null)
+                foreach (var file in files)
                 {
-                    var stats = line.Split("|");
-
-                    foreach (var item in stats)
+                    var line = sr.ReadLine();
+                    while (line != null)
                     {
-                        Console.Write(item + " ");
+                        if (line.Contains('|'))
+                        {
+                            delimiter = "|";
+                        }
+                        else 
+                        {
+                            delimiter = ",";
+                        }
+
+                        var stats = line.Split(delimiter);
+                        int num = 1;
+
+                        foreach (var item in stats)
+                        {
+                            Console.Write($"Field#{num}-");
+                            num++;
+                            Console.Write(item + " ");
+                        }
+                        Console.WriteLine("");
+                        num = 0;
+                        line = sr.ReadLine();
                     }
-                    line = sr.ReadLine();
                 }
-                   
             }
 
             Console.Read();
         }
-    
-
-
-
-
-
-
 
 
     }
