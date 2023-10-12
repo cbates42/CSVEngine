@@ -15,7 +15,6 @@ C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\CSVEngine.pdb
 C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\CSVEngine.genruntimeconfig.cache
 C:\Users\373588\source\repos\CSVEngine\CSVEngine\obj\Debug\net7.0\ref\CSVEngine.dll
 C:\Users\maxus\source\repos\AlgorithmPortfolio\CSVEngine\bin\Debug\net7.0\CSVEngine.exe
-C:\Users\maxus\source\repos\AlgorithmPortfolio\CSVEngine\bin\Debug\net7.0\test.txt
 C:\Users\maxus\source\repos\AlgorithmPortfolio\CSVEngine\bin\Debug\net7.0\CSVEngine.deps.json
 C:\Users\maxus\source\repos\AlgorithmPortfolio\CSVEngine\bin\Debug\net7.0\CSVEngine.runtimeconfig.json
 C:\Users\maxus\source\repos\AlgorithmPortfolio\CSVEngine\bin\Debug\net7.0\CSVEngine.dll
@@ -52,3 +51,5 @@ D:\Debug\net7.0\CSVEngine.deps.json
 D:\Debug\net7.0\CSVEngine.runtimeconfig.json
 D:\Debug\net7.0\CSVEngine.dll
 D:\Debug\net7.0\CSVEngine.pdb
+C:\Users\maxus\source\repos\AlgorithmPortfolio\CSVEngine\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\maxus\source\repos\AlgorithmPortfolio\CSVEngine\obj\Debug\net7.0\CSVEngine.csproj.CopyComplete

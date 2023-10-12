@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSVEngine
+namespace CSVEngine.Engines
 {
-    internal interface TextFile
+    internal class BasicEngine : BaseEngine
     {
-        public bool isCSV { get; set; }
-
     }
 }
